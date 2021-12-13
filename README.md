@@ -9,8 +9,6 @@ Autor: Lara de la Mata
 
 Fecha: 13/12/21
 
-![Cultura Digital](https://images.app.goo.gl/apmunKv7LDQw3HQq9) 
-
 
 
 ## Planteamiento
@@ -21,7 +19,7 @@ Estamos en un proceso de hibridación, donde las propiedades de unos medios se m
 
 ## Re-descubriendo la hibridacion: Caso 1
 
-¿Qué es la realidad virtual?
+###**¿QÚE ES LA REALIDAD VIRTUAL?**
 La **realidad virtual** es un tipo de tecnología que se basa en la mezcla de los videojuegos convencionales y en la interacción total del usuario que lo experimenta, convirtiéndolo en una experiencia inmersiva total en la historia. Todo esto a través de un dispositivo, que son las **gafas de realidad virtual**.
 
 ![image](https://user-images.githubusercontent.com/95851154/145860791-404164b5-0c02-46c8-93c5-508491ef4655.png)
@@ -47,6 +45,8 @@ Entre los juegos que soportan esta tecnología virtual tendríamos:​
 -Juegos para iPhone.
 -Juegos online.
 
+Se trata de una hibridación del medio físico y virtual.
+
 Aquí un ejemplo de videojuego de realidad virtual con gafas:
 
 **Star Trek: Bridge Crew. Mejor juego VR multijugador**
@@ -54,10 +54,56 @@ Aquí un ejemplo de videojuego de realidad virtual con gafas:
 Aunque Star Trek Bridge Crew incluye un modo para un único jugador, el juego está diseñado para que 4 usuarios jueguen al mismo tiempo, manejando la nave estelar desde el puente de mando y ocupándose cada uno de controles distintos. Es incluso posible jugar con gafas de realidad virtual distintas, por lo que no es necesario que los cuatro usuarios tengan el mismo modelo de gafas.
 
 
-[Star Trek]https://youtu.be/romB8e5nMp8
-https://youtu.be/romB8e5nMp8
+[Star Trek](https://youtu.be/romB8e5nMp8
+https://youtu.be/romB8e5nMp8)
+
+
+
 
 
 ## Re-descubriendo la hibridacion: Caso 2
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+##**RELOJES INTELIGENTES**
+
+Un smartwatch es un dispositivo portátil diseñado para llevarlo en la muñeca. Al igual que los smartphones, utilizan pantallas táctiles, ofrecen aplicaciones y a menudo registran el ritmo cardíaco y otras constantes vitales.
+
+Los modelos Apple Watch y Wear (antes Android Wear) hicieron que más consumidores apreciaran la utilidad de llevar un miniordenador en la muñeca. Además, los smartwatches especializados en actividades al aire libre suelen complementar otros dispositivos más voluminosos en el kit de herramientas de un aventurero.
+
+ 
+###**¿Qué hacen los relojes inteligentes?**
+
+
+***Notificaciones***: Los teléfonos inteligentes muestran notificaciones para avisar de eventos o actividades importantes.
+los dispositivos conectados a un smartphone pueden simplemente reflejar las notificaciones del teléfono en la muñeca, pero otros smartwatches muestran notificaciones que sólo un wearable podría proporcionar. Por ejemplo, el último Apple Watch incluye un sensor de caídas. Si te caes mientras llevas el reloj, éste detecta tu movimiento posterior. Si no detecta ningún movimiento, envía una serie de notificaciones escalonadas. Si no respondes a la notificación, el reloj asume que estás lesionado y alerta a las autoridades en tu nombre.
+
+***Aplicaciones***: Los ecosistemas de aplicaciones varían, y están ligados a los entornos de Apple o Google. Los smartwatches con un propósito específico, como el senderismo o el buceo, generalmente admiten las aplicaciones que necesitan para cumplir con ese propósito sin la oportunidad de añadir otro tipo de aplicaciones.
+
+
+***Gestión de medios***: La mayoría de los smartwatches emparejados con smartphones pueden gestionar la reproducción de medios por ti. Por ejemplo, cuando estás escuchando música en un iPhone usando los AirPods de Apple, puedes usar tu Apple Watch para cambiar el volumen y las pistas.
+
+***Seguimiento de la actividad física***: Si eres un atleta empedernido, una banda de fitness dedicada es probablemente una mejor opción que un smartwatch. Aun así, muchos relojes inteligentes incluyen un monitor de frecuencia cardíaca y un podómetro para ayudar a seguir tus entrenamientos.
+
+
+***Seguimiento de la actividad física***: Si eres un atleta empedernido, una banda de fitness dedicada es probablemente una mejor opción que un smartwatch. Aun así, muchos relojes inteligentes incluyen un monitor de frecuencia cardíaca y un podómetro para ayudar a seguir tus entrenamientos.
+
+La parte más interesante de estos dispositivos, es que, en cuanto a hibridación, serían una mezcla entre reloj tradicional, smartphone y entrenador personal.
+
+En tu muñeca dispones de un reloj, un complemento tradicional decorativo que dice la hora, pero a la vez recibes y respondes a todas las notificaciones como harías con tu teléfono móvil, pero sin necesidad de mirar este. Además de un seguimiento avanzado de salud y deporte.
+
+[Fitbit VS Apple](https://www.google.es/url?sa=i&url=https%3A%2F%2Fwww.smartwatchzone.net%2Ffitbit-versa-vs-apple-watch-series-3-analisis-comparativa-caracteristicas-precio-opinion%2F&psig=AOvVaw1tYvnPMXy-dEcdwwU1XQg4&ust=1639505285124000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOj3jqSv4fQCFQAAAAAdAAAAABAF![image](https://user-images.githubusercontent.com/95851154/145865865-c8f685ba-84a4-4263-a5a7-984a5bbb08ae.png))
+
+
+####**Bibliografía**
+- Xataka. Oculus Quest 2.
+- reflexionycontenido.wordpress.com
+- gafasoculus.com
+- udoe.es
+- Smartwatch zone
+- El software toma el mando. Manovich
+
+
+
+
+
+
