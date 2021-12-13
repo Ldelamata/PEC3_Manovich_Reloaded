@@ -94,9 +94,7 @@ La parte más interesante de estos dispositivos, es que, en cuanto a hibridació
 
 En tu muñeca dispones de un reloj, un complemento tradicional decorativo que dice la hora, pero a la vez recibes y respondes a todas las notificaciones como harías con tu teléfono móvil, pero sin necesidad de mirar este. Además de un seguimiento avanzado de salud y deporte.
 
-
-(https://smartwatchzone-cd04iemih.netdna-ssl.com/wp-content/uploads/2018/03/fitbit-versa-vs-apple-watch.jpg![image](https://user-images.githubusercontent.com/95851154/145867082-77047c60-bbc3-4be2-83bd-5918e2977d38.png))
-
+[Fitbit vs Apple](https://smartwatchzone-cd04iemih.netdna-ssl.com/wp-content/uploads/2020/10/Apple-Watch-Series-6-vs-Fitbit-Versa-3.jpg)
 
 
 #### **Bibliografía**
