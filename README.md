@@ -57,8 +57,8 @@ Aquí un ejemplo de videojuego de realidad virtual con gafas:
 Aunque Star Trek Bridge Crew incluye un modo para un único jugador, el juego está diseñado para que 4 usuarios jueguen al mismo tiempo, manejando la nave estelar desde el puente de mando y ocupándose cada uno de controles distintos. Es incluso posible jugar con gafas de realidad virtual distintas, por lo que no es necesario que los cuatro usuarios tengan el mismo modelo de gafas.
 
 
-[Star Trek] (https://youtu.be/romB8e5nMp8
-https://youtu.be/romB8e5nMp8)
+[Star Trek] (https://youtu.be/romB8e5nMp8)
+
 
 
 
@@ -94,7 +94,9 @@ La parte más interesante de estos dispositivos, es que, en cuanto a hibridació
 
 En tu muñeca dispones de un reloj, un complemento tradicional decorativo que dice la hora, pero a la vez recibes y respondes a todas las notificaciones como harías con tu teléfono móvil, pero sin necesidad de mirar este. Además de un seguimiento avanzado de salud y deporte.
 
-[Fitbit VS Apple](https://www.google.es/url?sa=i&url=https%3A%2F%2Fwww.smartwatchzone.net%2Ffitbit-versa-vs-apple-watch-series-3-analisis-comparativa-caracteristicas-precio-opinion%2F&psig=AOvVaw1tYvnPMXy-dEcdwwU1XQg4&ust=1639505285124000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOj3jqSv4fQCFQAAAAAdAAAAABAF![image](https://user-images.githubusercontent.com/95851154/145865865-c8f685ba-84a4-4263-a5a7-984a5bbb08ae.png))
+
+(https://smartwatchzone-cd04iemih.netdna-ssl.com/wp-content/uploads/2018/03/fitbit-versa-vs-apple-watch.jpg![image](https://user-images.githubusercontent.com/95851154/145867082-77047c60-bbc3-4be2-83bd-5918e2977d38.png))
+
 
 
 #### **Bibliografía**
